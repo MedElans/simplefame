@@ -3,5 +3,4 @@ ovh:
     user: souhailmmm
     pass: PvSN45kAtSbs
     path:
-        local: dist/
         remote: www/simplefame
